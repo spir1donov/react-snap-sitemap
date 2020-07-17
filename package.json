@@ -1,6 +1,6 @@
 {
-  "name": "@arcadian-digital/react-snap-sitemap",
-  "repository": "arcadian-group/react-snap-sitemap",
+  "name": "@spir1donov/react-snap-sitemap",
+  "repository": "spir1donov/react-snap-sitemap",
   "engines": {
     "node": ">= 8.6.0"
   },
